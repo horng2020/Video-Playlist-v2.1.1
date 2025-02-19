@@ -22,7 +22,7 @@ const videoPlayerSettings = {
     pullZoneUrl: []
   },
   bloggerAPI: {
-    blogId: ["3416154286326554226","7770980406614294729"]
+    blogId: ["596013908374331296","3416154286326554226","7770980406614294729"]
   },
   GDEmbedUrl: [],
   videoAd: {
