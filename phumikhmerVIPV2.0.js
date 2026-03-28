@@ -25,7 +25,7 @@ const videoPlayerSettings = {
     videoAd: {
         show: true,
         data: [{
-            source: "https://tag.gammaplatform.com/adx/request/?wid=1773988607&zid=1774492070&content_page_url=__page-url__&cb=__random-number__&player_width=__player-width__&player_height=__player-height__&device_id=__device-id__",
+            source: "https://drx-dsp.sgp1.cdn.digitaloceanspaces.com/video/20260226/1772097627.541.mp4",
             clickUrl: "https://www.google.com"
         }],
         skipAdIn: "Skip Ad in (",
