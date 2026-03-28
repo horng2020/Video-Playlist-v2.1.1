@@ -23,10 +23,10 @@ const videoPlayerSettings = {
     },
     GDEmbedUrl: [],
     videoAd: {
-        show: true,
+        show: false,
         data: [{
-            source: "https://drx-dsp.sgp1.cdn.digitaloceanspaces.com/video/20260226/1772097627.541.mp4",
-            clickUrl: "https://www.google.com"
+            source: "",
+            clickUrl: ""
         }],
         skipAdIn: "Skip Ad in (",
         countdown: 5,
